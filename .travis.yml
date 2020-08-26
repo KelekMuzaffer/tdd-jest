@@ -2,3 +2,6 @@ language: ruby
 rvm:
   - 2.2
   - jruby
+
+  #!/bin/sh
+  npm run test
