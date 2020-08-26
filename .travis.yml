@@ -2,5 +2,5 @@ language: node_js
 node_js:
   - lts/*
 
-after_script: true
+before_script: true
    jest
